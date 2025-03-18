@@ -19,4 +19,13 @@ function AdicionarAmigo() {
     i++};
     document.getElementById('amigo').value = '';
 }
+//Verficar as linhas abaixo
+function sortearAmigo() {
+  let nomeSorteado = sortearNomeAleatorio();
 
+  if (nomeSorteado) {
+    let resultado = document.getElementById('resultado');
+    resultado.innerHTML = '';
+    resultado.innerHTML = `<li>O amigo secreto sorteado é: ${nomeSorteado}</li>`}
+  }
+}
