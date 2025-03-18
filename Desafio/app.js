@@ -8,6 +8,15 @@ function AdicionarAmigo() {
       alert('Por favor, insira um nome válido no campo "Digite um nome"')};
   else {
     listaNomes.push(amigoAdicionado)};
-  
+
+    let listaAmigos = document.getElementById('listaAmigos');
+    lista.innerHTML = '';
+
+    let i = 0;
+    while (i < listaNomes.length) {
+    let item = listaNomes[i]
+    listaAmigos.innerHTML += `<li>${item}</li>`;
+    i++};
+    document.getElementById('amigo').value = '';
 }
 
