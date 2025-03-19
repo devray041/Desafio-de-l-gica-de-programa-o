@@ -33,8 +33,8 @@
 
 
 ## Acesso ao projeto
-:link: Acesso ao código do projeto:
-:link: Acesso ao site do projeto:
+:link: Acesso ao código do projeto: 
+:link: Acesso ao site do projeto: https://67da0b43ea0f1c72b92f74cb--sage-cranachan-7fd26d.netlify.app/
 
 
 ## Desenvolvedores e Contribuidores
