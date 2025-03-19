@@ -8,6 +8,7 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
+* [Desenvolvedores e Contribuidores](#desenvolvedores-e-contribuidores)
 
 
 ## Introdução
@@ -16,7 +17,7 @@
 
 
 ## Status do Projeto
-> :construction: Projeto em fase de testes :construction:
+> :chart: O projeto está pronto, sendo sujeito a receber atualizações futuramente :chart:
 
 
 ## Descrição do projeto 
@@ -24,8 +25,19 @@
 
 
 ## Funcionalidades
-- Exibir alerta se o usuário clicar em "Adicionar" sem ter inserirido um nome válido.
-- Adicionar nomes à lista de sorteio e limpar o campo a cada vez que um nome for adicionado.
-- Exibir na tela a lista de nomes adicionados.
-- Realizar sorteio aleatório dos nomes adicionados.
-- Exibir na tela o resultado informando qual nome foi sorteado.
+* Exibir alerta se o usuário clicar em "Adicionar" sem ter inserirido um nome válido.
+* Adicionar nomes à lista de sorteio e limpar o campo a cada vez que um nome for adicionado.
+* Exibir na tela a lista de nomes adicionados.
+* Realizar sorteio aleatório dos nomes adicionados.
+* Exibir na tela o resultado informando qual nome foi sorteado.
+
+
+## Acesso ao projeto
+:link: Acesso ao código do projeto:
+:link: Acesso ao site do projeto:
+
+
+## Desenvolvedores e Contribuidores
+* Código Java Script: Rayanne de Souza
+* HTML: Equipe Alura
+* CSS: Equipe Alura
